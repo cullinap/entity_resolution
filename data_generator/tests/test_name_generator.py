@@ -12,4 +12,3 @@ def test_generate_single_name(name_generator):
     assert isinstance(name[0], str)
     assert len(name[0]) > 0 
 
-
